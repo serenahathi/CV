@@ -1,6 +1,6 @@
 ## Serena Hathi
 
-<p align="center">[Skills](#skills) | [Education and Projects](#education-projects) | [Work Experience](#work-experience) | [Languages](#languages) | [Interests](#interests) | [Contact Details](#contact-details)</p>
+[Skills](#skills) | [Education and Projects](#education-projects) | [Work Experience](#work-experience) | [Languages](#languages) | [Interests](#interests) | [Contact Details](#contact-details)
 
 I am a French-speaking analytical digital marketer currently attending Makers Academy, the UK’s leading software development bootcamp, with the aim of making a career change into software development as a Junior Full Stack Developer.  
 
