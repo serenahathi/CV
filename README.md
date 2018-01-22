@@ -1,12 +1,12 @@
 ## Serena Hathi
 
-[Skills](#skills) | [Education and Projects](#education-projects) | [Work Experience](#work-experience) | [Languages](#languages) | [Interests](#interests) | [Contact Details](#contact-details)
+<p align="center">[Skills](#skills) | [Education and Projects](#education-projects) | [Work Experience](#work-experience) | [Languages](#languages) | [Interests](#interests) | [Contact Details](#contact-details)</p>
 
-I am a French-speaking analytical digital marketer currently attending Makers Academy, the UK’s leading software development bootcamp with the aim of making a career change into software development as a Junior Full Stack Developer.  
+I am a French-speaking analytical digital marketer currently attending Makers Academy, the UK’s leading software development bootcamp, with the aim of making a career change into software development as a Junior Full Stack Developer.  
 
 After graduating with a first class honours degree in French and History, I spent a year teaching English at a secondary school in France. Upon my return to the UK, I joined the Digital team of a multinational insurance company working in daily collaboration with front-end developers, testers, designers and project managers. Within the team, we adopted tools such as JIRA and agile practices such as daily standups and the use of a Kanban workflow and this is where I developed my interest in programming.
 
-Personal highlights from my career so far include being selected alongside four senior leaders to develop and launch the company’s first startup venture which went on to receive the highest customer rating in the sector to becoming a certified Google AdWords practitioner and being shortlisted for a [UK Paid Search Award](http://www.searchawards.co.uk/shortlist). 
+Personal highlights from my career so far include being selected alongside four senior leaders to develop and launch the company’s first startup venture which went on to receive the highest customer rating in the sector to becoming a certified Google AdWords practitioner and being shortlisted for a [UK Search Award](http://www.searchawards.co.uk/shortlist). 
 
 
  <a id ="skills"></a>
@@ -14,7 +14,7 @@ Personal highlights from my career so far include being selected alongside four 
 
 #### Strong communicator
 
-Studying and working in France and navigating a different culture were a great test of my communication skills. Success in my role as an English teacher relied entirely upon my ability to both engage and adapt my communication style to meet the needs of my students and their varying levels of ability. 
+Studying and working in France and navigating a different culture was a great test of my communication skills. Success in my role as an English teacher relied entirely upon my ability to both engage and adapt my communication style to meet the needs of my students and their varying levels of ability. 
 
 In my previous role as a Digital Marketing Manager for Domestic & General, I regularly presented analysis and recommendations to internal senior directors and to our client partners including AO.com, Argos and the Whirlpool Group. This involved deconstructing often complex terminology and presenting insights in a clear and succinct manner. 
 
