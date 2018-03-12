@@ -135,6 +135,5 @@ Projects:
 
 <a id ="contact-details"></a>
 ## Contact details
-- Mobile - 07763 497 067
 - [Email - hathiserena@gmail.com ](mailto:hathiserena@gmail.com "Email Me")
 - [LinkedIn ](https://www.linkedin.com/in/serenahathi "LinkedIn")
