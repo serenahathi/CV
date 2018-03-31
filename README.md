@@ -11,15 +11,42 @@ Personal highlights from my career so far include being selected alongside four 
 <a id ="projects"></a>
 ## Projects
 
-| Project                           | Summary                                                                                                                 | Timeframe | Technologies                | Testing                             | Link                                              |   |
+| Project                           | Summary                                                                                                                 | Timeframe | Technologies                | Testing                             | Link                                              |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------------|-------------------------------------|---------------------------------------------------|---|
 | Mediminder iPhone app (week 9)<br>[GitHub Repo](https://github.com/serenahathi/mediminder)   | Group project: a medication reminder iPhone app built with no prior knowledge of Swift                                  | 1 week    | Swift, Xcode                | XCTest                              | [Demo video](https://vimeo.com/262593550)        |   |
 | Thermostat app (week 5)<br>[GitHub Repo](https://github.com/serenahathi/thermostat-javascript)           | A thermostat web app                                                                                                    | 2 days    | JavaScript, jQuery, AJAX   | Jasmine                             | [Demo video](https://vimeo.com/262597574)                                                 |   |
 | Rock Paper Scissors game (week 3)<br>[GitHub Repo](https://github.com/serenahathi/rps-challenge) | A web app that allows a user to play a game of Rock, Paper, Scissors.                                     | 2 days    | Ruby, Sinatra, HTML and CSS | RSpec, Capybara, Selenium WebDriver | [Live link](https://rock-paper-scissors-makers.herokuapp.com)|   |
 | Takeaway challenge (week 2)<br>[GitHub Repo](https://github.com/serenahathi/takeaway-challenge)       | A command-line program that allows users to place an order from a menu and receive a text message confirming the order. | 2 days    | Ruby, Twilio API            | RSpec                               | [Demo video]()   
 
+<a id ="education"></a>
+## Education
 
- <a id ="skills"></a>
+#### Makers Academy, London (Dec 2017 - Apr 2018)
+An intensive full stack development bootcamp focused on:
+
+- Ruby, Rails, Sinatra, JavaScript, jQuery, Git, HTML, CSS
+- Test driven development using frameworks such as RSPec, Jasmine, Mocha and Zombie.js
+- Object oriented programming
+- Agile methodologies
+- Pair programming
+- XP values
+                        
+#### Royal Holloway, University of London (Sep 2009 - Jul 2013)
+
+- BA French and History - First class honours
+- Distinction in spoken French
+- Awarded Bedford scholarship for academic excellence
+
+#### Université Paul Valéry, Montpellier, France (Sep 2011 - Jul 2012)
+- Third year of study spent abroad as part of the Erasmus exchange scheme
+
+#### Havant College, Portsmouth (Sep 2007 - Jul 2009)
+- A Levels: 4 As in English Literature, History, French and Religious Studies
+
+#### Saint Edmund's Catholic School, Portsmouth (Sep 2002 - Jul 2007)
+- GCSEs: 11 Grade A* - A
+
+<a id ="skills"></a>
 ## Skills
 
 #### Strong communicator
@@ -54,33 +81,6 @@ In my role as a Digital Marketing Manager for example, I found that the process 
 Drawing on my Microsoft Excel skills, I developed a series of automated worksheets that pulled in raw data from a range of different sources each morning.  Automating the process not only saved time but also made it significantly easier to monitor historic trends and identify new opportunities for commercial growth. 
 
 
-<a id ="education"></a>
-## Education
-
-#### Makers Academy, London (Dec 2017 - Apr 2018)
-An intensive full stack development bootcamp focused on:
-
-- Ruby, Rails, Sinatra, JavaScript, jQuery, Git, HTML, CSS
-- Test driven development using frameworks such as RSPec, Jasmine, Mocha and Zombie.js
-- Object oriented programming
-- Agile methodologies
-- Pair programming
-- XP values
-                        
-#### Royal Holloway, University of London (Sep 2009 - Jul 2013)
-
-- BA French and History - First class honours
-- Distinction in spoken French
-- Awarded Bedford scholarship for academic excellence
-
-#### Université Paul Valéry, Montpellier, France (Sep 2011 - Jul 2012)
-- Third year of study spent abroad as part of the Erasmus exchange scheme
-
-#### Havant College, Portsmouth (Sep 2007 - Jul 2009)
-- A Levels: 4 As in English Literature, History, French and Religious Studies
-
-#### Saint Edmund's Catholic School, Portsmouth (Sep 2002 - Jul 2007)
-- GCSEs: 11 Grade A* - A
 
 <a id ="work-experience"></a>
 ## Previous Work Experience
