@@ -6,7 +6,7 @@ I am a French-speaking Junior Full Stack Developer and a recent graduate of Make
 
 After graduating with a first class honours degree in French and History, I joined the Digital team of a multinational insurance company as a Digital Marketing Manager working in daily collaboration with front-end developers, testers, designers and project managers. Within the team, we adopted tools such as JIRA and agile practices such as daily stand-ups and the use of a Kanban workflow and this is where I developed an initial interest in programming. 
 
-My interest developed further when I was selected alongside four senior leaders to launch the company's first start-up venture where technology was used an enabler in rapidly bringing a proposition to market and iterating as we tested different hypotheses. 
+My interest developed further when I was selected alongside four senior leaders to launch the company's first start-up venture where technology was used an enabler in rapidly bringing a proposition to market as we iterated and tested different hypotheses. 
 
 I have experience using:
 
@@ -43,7 +43,7 @@ These skills have proved to be invaluable whilst learning to code at Makers Acad
 #### Analytical thinker
 My experience working within the digital marketing sector has allowed me to sharpen my analytical skillset and appreciate the wider commercial context in which an organisation operates. 
 
-I am adept at observing trends and drawing actionable insights from large data sets to drive efficiencies. In my previous role as a Digital Marketing Manager for example, I was reponsible for developing the organisation's paid search acquisition strategy and identified opportunities for growth resulting in a 24% increase in conversion alongside a reduction in cost per acquisition year on year. As a result of these efforts, Domestic & General was shortlisted for an award at the [UK Search Awards](http://www.searchawards.co.uk/shortlist) in 2017.
+I am adept at observing trends and drawing actionable insights from large data sets to drive efficiencies. In my previous role as a Digital Marketing Manager for example, I was responsible for developing the organisation's paid search acquisition strategy and identified opportunities for growth resulting in a 24% increase in conversion alongside a reduction in cost per acquisition year on year. As a result of these efforts, Domestic & General was shortlisted for an award at the [UK Search Awards](http://www.searchawards.co.uk/shortlist) in 2017.
 
 #### Problem solver
 I try to approach problems by thoroughly analysing the issue at hand, seeking feedback from stakeholders to identify where pain points exist and then reviewing possible solutions from different perspectives before embarking on a course of action. 
