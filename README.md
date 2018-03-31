@@ -10,13 +10,12 @@ Personal highlights from my career so far include being selected alongside four 
 
 <a id ="projects"></a>
 ## Projects
-
-| Project                           | Summary                                                                                                                 | Timeframe | Technologies                | Testing                             | Link                                           
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------------|-------------------------------------|---------------------------------------------------|---|
-| Mediminder iPhone app (week 9)<br>[GitHub Repo](https://github.com/serenahathi/mediminder) | Group project: a medication reminder iPhone app built with no prior knowledge of Swift | 1 week| Swift, Xcode | XCTest| [Demo video](https://vimeo.com/262593550)        
-| Thermostat app (week 5)<br>[GitHub Repo](https://github.com/serenahathi/thermostat-javascript) | A thermostat web app | 2 days | JavaScript, jQuery, AJAX   | Jasmine | [Demo video](https://vimeo.com/262597574)                                                
-| Rock Paper Scissors game (week 3)<br>[GitHub Repo](https://github.com/serenahathi/rps-challenge) | A web app that allows a user to play a game of Rock, Paper, Scissors. | 2 days | Ruby, Sinatra, HTML and CSS | RSpec, Capybara, Selenium WebDriver | [Live link](https://rock-paper-scissors-makers.herokuapp.com)
-| Takeaway challenge (week 2)<br>[GitHub Repo](https://github.com/serenahathi/takeaway-challenge)       | A command-line program that allows users to place an order from a menu and receive a text message confirming the order. | 2 days    | Ruby, Twilio API| RSpec | [Demo video]()   
+| Project 	| Summary 	| Timeframe 	| Technologies 	| Testing 	| Link 	|
+|--------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------	|-----------	|-----------------------------	|-------------------------------------	|---------------------------------------------------------------	|
+| Mediminder iPhone app (week 9)<br>[GitHub Repo](https://github.com/serenahathi/mediminder) 	| Group project: a medication reminder iPhone app built with no prior knowledge of Swift 	| 1 week 	| Swift, Xcode 	| XCTest 	| [Demo video](https://vimeo.com/262593550) 	|
+| Thermostat app (week 5)<br>[GitHub Repo](https://github.com/serenahathi/thermostat-javascript) 	| A thermostat web app 	| 2 days 	| JavasScript, jQuery, AJAX 	| Jasmine 	| [Demo video](https://vimeo.com/262597574) 	|
+| Rock Paper Scissors game (week 3)<br>[GitHub Repo](https://github.com/serenahathi/rps-challenge) 	| A web app that allows a user to play a game of Rock, Paper, Scissors. Play here: 	| 2 days 	| Ruby, Sinatra, HTML and CSS 	| RSpec, Capybara, Selenium WebDriver 	| [Live link](https://rock-paper-scissors-makers.herokuapp.com) 	|
+| Takeaway challenge (week 2)<br>[GitHub Repo](https://github.com/serenahathi/takeaway-challenge) 	| A command-line program that allows users to place an order from a menu and receive a text message confirming the order. 	| 2 days 	| Ruby, Twilio API 	| RSpec 	| [Demo video]() 	|
 
 <a id ="education"></a>
 ## Education
@@ -45,7 +44,6 @@ An intensive full stack development bootcamp focused on:
 
 #### Saint Edmund's Catholic School, Portsmouth (Sep 2002 - Jul 2007)
 - GCSEs: 11 Grade A* - A
-
 
 <a id ="work-experience"></a>
 ## Previous Work Experience
@@ -84,6 +82,8 @@ An intensive full stack development bootcamp focused on:
 
 * Planned and delivered English classes to French secondary school students
 * Prepared tailored learning resources for a wide range of abilities
+
+
 
 <a id ="languages"></a>
 ## Languages
