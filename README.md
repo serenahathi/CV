@@ -12,10 +12,10 @@ Personal highlights from my career so far include being selected alongside four 
 ## Projects
 | Project 	| Summary 	| Timeframe 	| Technologies 	| Testing 	| Link 	|
 |--------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------	|-----------	|-----------------------------	|-------------------------------------	|---------------------------------------------------------------	|
-| **Mediminder iPhone app**<br>(week 9)<br>[GitHub Repo](https://github.com/serenahathi/mediminder) 	| Group week project: A medication reminder iPhone app built with no prior knowledge of Swift 	| 1 week 	| Swift, Xcode 	| XCTest 	| [Demo video](https://vimeo.com/262593550) 	|
-| **Thermostat app**<br>(week 5)<br>[GitHub Repo](https://github.com/serenahathi/thermostat-javascript) 	| Solo weekend project: A thermostat web app 	| 2 days 	| JavasScript, jQuery, AJAX 	| Jasmine 	| [Demo video](https://vimeo.com/262597574) 	|
-| **Rock Paper Scissors game**<br>(week 3)<br>[GitHub Repo](https://github.com/serenahathi/rps-challenge) 	| Solo weekend project: A web app that allows a user to play a game of Rock, Paper, Scissors 	| 2 days 	| Ruby, Sinatra, HTML and CSS 	| RSpec, Capybara, Selenium WebDriver 	| [Live link](https://rock-paper-scissors-makers.herokuapp.com) 	|
-| **Takeaway challenge**<br>(week 2)<br>[GitHub Repo](https://github.com/serenahathi/takeaway-challenge) 	| Solo weekend project: A command-line program that allows users to place an order from a menu and receive a text message confirming the order 	| 2 days 	| Ruby, Twilio API 	| RSpec 	| [Demo video]() 	|
+| **Mediminder iPhone app**<br>(week 9)<br>[GitHub Repo](https://github.com/serenahathi/mediminder) 	| A medication reminder iPhone app built with no prior knowledge of Swift 	| Group week project	| Swift, Xcode 	| XCTest 	| [Demo video](https://vimeo.com/262593550) 	|
+| **Thermostat app**<br>(week 5)<br>[GitHub Repo](https://github.com/serenahathi/thermostat-javascript) 	| A thermostat web app 	| Solo weekend project 	| JavasScript, jQuery, AJAX 	| Jasmine 	| [Demo video](https://vimeo.com/262597574) 	|
+| **Rock Paper Scissors game**<br>(week 3)<br>[GitHub Repo](https://github.com/serenahathi/rps-challenge) 	| A web app that allows a user to play a game of Rock, Paper, Scissors 	| Solo weekend project 	| Ruby, Sinatra, HTML and CSS 	| RSpec, Capybara, Selenium WebDriver 	| [Live link](https://rock-paper-scissors-makers.herokuapp.com) 	|
+| **Takeaway challenge**<br>(week 2)<br>[GitHub Repo](https://github.com/serenahathi/takeaway-challenge) 	| A command-line program that allows users to place an order from a menu and receive a text message confirming the order 	| Solo weekend project 	| Ruby, Twilio API 	| RSpec 	| [Demo video]() 	|
 
 <a id ="education"></a>
 ## Education
