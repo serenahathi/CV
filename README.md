@@ -4,7 +4,7 @@
 
 I am a French-speaking Junior Full Stack Developer and a recent graduate of Makers Academy, Europe's leading software development bootcamp.
 
-After graduating with a first class honours degree in French and History, I joined the Digital team of a multinational insurance company as a Digital Marketing Manager, working in daily collaboration with front-end developers, testers, designers and project managers. Within the team, we adopted tools such as JIRA and agile practices such as daily standups and the use of a Kanban workflow and this is where I developed my interest in programming.
+After graduating with a first class honours degree in French and History, I joined the Digital team of a multinational insurance company as a Digital Marketing Manager working in daily collaboration with front-end developers, testers, designers and project managers. Within the team, we adopted tools such as JIRA and agile practices such as daily standups and the use of a Kanban workflow and this is where I developed my interest in programming.
 
 Personal highlights from my career so far include being selected alongside four senior leaders to develop and launch the company’s first startup venture which went on to receive the highest customer rating in the sector to becoming a certified Google AdWords practitioner and being shortlisted for a [UK Search Award](http://www.searchawards.co.uk/shortlist). 
 
@@ -44,6 +44,37 @@ An intensive full stack development bootcamp focused on:
 
 #### Saint Edmund's Catholic School, Portsmouth (Sep 2002 - Jul 2007)
 - GCSEs: 11 Grade A* - A
+
+
+<a id="skills"></a>
+
+## Skills
+
+#### Strong communicator
+Studying and working in France and navigating a different culture was a great test of my communication skills. Success in my role as an English teacher relied entirely upon my ability to both engage and adapt my communication style to meet the needs of my students and their varying levels of ability.
+
+In my previous role as a Digital Marketing Manager for Domestic & General, I regularly presented analysis and recommendations to internal senior directors and to our client partners including AO.com, Argos and the Whirlpool Group. This involved deconstructing often complex terminology and presenting insights in a clear and succinct manner.
+
+I was also a mentor to junior members of the team and delivered a series of training workshops centred around the fundamentals of paid search.
+
+#### Fast and adaptable learner
+From speaking French to working in a new country, I am a naturally curious individual who enjoys continually learning and broadening my knowledge.
+
+For example I began my previous role with little practical knowledge of paid search and within four months had successfully passed Google’s AdWords certification. I applied my new knowledge to drive forward our accounts and identify opportunities for growth in turn resulting in a 24% increase in conversion and a 41% reduction in cost per acquisition year on year. As a result of these efforts, Domestic & General was shortlisted for an award at the UK Search Awards in 2017.
+
+
+#### Analytical thinker
+My experience working within the digital marketing sector has allowed me to sharpen my analytical skillset. I am adept at observing trends and drawing both meaningful and actionable insights from large data sets to drive efficiencies.
+
+Whilst working as the Venture Development Manager at GoFix, a start-up venture commissioned by Domestic & General to explore the opportunity in a new sector of interest, I was responsible for analysing and reporting upon all operational KPIs. My insights, which I presented to the Managing Director and senior team members, enabled the venture to make cost-saving efficiencies and contributed to meeting the financial targets set by the board of Directors.
+
+
+#### Problem solver
+I try to approach problems by thoroughly analysing the issue at hand, seeking feedback from stakeholders to identify where pain points exist and then reviewing possible solutions from different perspectives before embarking on a course of action.
+
+In my role as a Digital Marketing Manager for example, I found that the process used to collate and analyse paid search data was manual, inefficient and unnecessary lengthy. After speaking to the various users of the data, I identified that accuracy and timeliness were sources of frustration.
+
+Drawing on my Microsoft Excel skills, I developed a series of automated worksheets that pulled in raw data from a range of different sources each morning. Automating the process not only saved time but also made it significantly easier to monitor historic trends and identify new opportunities for commercial growth.
 
 <a id ="work-experience"></a>
 ## Previous Work Experience
