@@ -1,5 +1,4 @@
 ## Serena Hathi
-
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Languages](#languages) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/serenahathi "LinkedIn") | [Email](mailto:hathiserena@gmail.com "Email Me")
 
 I am a French-speaking Junior Full Stack Developer and a recent graduate of Makers Academy, Europe's leading software development bootcamp.
@@ -25,7 +24,7 @@ I have experience using:
 | Project 	| Summary 	| Timeframe 	| Technologies 	| Testing 	| Link 	|
 |--------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------	|-----------	|-----------------------------	|-------------------------------------	|---------------------------------------------------------------	|
 | [Mediminder iPhone app](https://github.com/serenahathi/mediminder)<br>(week 9) 	| A medication reminder iPhone app built with no prior knowledge of Swift 	| 5 days (group project)	| Swift, Xcode 	| XCTest 	| [Demo video](https://vimeo.com/262593550) 	|
-| [Thermostat app](https://github.com/serenahathi/thermostat-javascript)<br>(week 5)<br>	| A thermostat web app	| 3 days (pairing project) 	| JavasScript, jQuery, AJAX 	| Jasmine 	| [Demo video](https://vimeo.com/262597574) 	|
+| [Thermostat app](https://github.com/serenahathi/thermostat-javascript)<br>(week 5)<br>	| A thermostat web app  that allows a user to adjust the temperature and view the temperature of any given city	| 3 days (pairing project) 	| JavasScript, jQuery, OpenWeatherMap API, HTML and CSS 	| Jasmine 	| [Demo video](https://vimeo.com/262597574) 	|
 | [Rock Paper Scissors game](https://github.com/serenahathi/rps-challenge)<br>(week 3)<br> | A web app that allows a user to play a game of Rock, Paper, Scissors 	| 2 days (solo project)	| Ruby, Sinatra, HTML and CSS 	| RSpec, Capybara, Selenium WebDriver 	| [Live link](https://rock-paper-scissors-makers.herokuapp.com) 	|
 | [Takeaway challenge](https://github.com/serenahathi/takeaway-challenge)<br>(week 2)<br> | A command-line app that allows users to place an order from a menu and receive a text message confirming the order 	| 2 days (solo project)	| Ruby, Twilio API 	| RSpec 	| [Demo video](https://vimeo.com/262639239) 	|
 
