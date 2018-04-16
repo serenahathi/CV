@@ -1,3 +1,5 @@
+
+
 ## Serena Hathi
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Languages](#languages) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/serenahathi "LinkedIn") | [Email](mailto:hathiserena@gmail.com "Email Me")
 
@@ -9,11 +11,11 @@ My interest developed further when I was selected alongside four senior leaders 
 
 I have experience using:
 
-**Technologies:** Ruby, Rails, Sinatra, JavaScript, Express, jQuery, Git, HTML, CSS<br>
+**Technologies:** Ruby, Rails, Sinatra, JavaScript, Node, Express, jQuery, Git, HTML, CSS<br>
 
-**Testing frameworks:** RSpec, Capybara, Jasmine, Mocha, Chai, Zombie<br>
+**Testing frameworks:** RSpec, Capybara, Jasmine, Mocha, Chai, Cypress<br>
 
-**Databases:** PostgreSQL, Sequelize, TablePlus, ActiveRecord<br>
+**Databases:** PostgreSQL, Sequelize, TablePlus, MongoDB,ActiveRecord<br>
 
 **Other:** Git, GitHub, JIRA, Google AdWords, Google Analytics, Optimizely, Response Tap<br>
 
@@ -23,7 +25,7 @@ I have experience using:
 
 | Project 	| Summary 	| Timeframe 	| Technologies 	| Testing 	| Link 	|
 |--------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------	|-----------	|-----------------------------	|-------------------------------------	|---------------------------------------------------------------	|
-| [Mediminder iPhone app](https://github.com/serenahathi/mediminder)<br>(week 9) 	| A medication reminder iPhone app built with no prior knowledge of Swift 	| 5 days (group project)	| Swift, Xcode 	| XCTest 	| [Demo video](https://vimeo.com/262593550) 	|
+| [Acheezable](https://github.com/serenahathi/acheezable)<br>(final project) 	| A self-improvement app encouraging users to create a series of daily personal goals, track progress towards these goals and view their achievements over time	| 9 days (group project)	| JavaScript, Node.js, Express, MongoDB, HTML/EJS/CSS, jQuery 	| Cypress 	| [Live link](https://acheezable.herokuapp.com/) 	|
 | [Thermostat app](https://github.com/serenahathi/thermostat-javascript)<br>(week 5)<br>	| A thermostat web app  that allows a user to adjust the temperature and view the temperature of any given city	| 3 days (pairing project) 	| JavasScript, jQuery, OpenWeatherMap API, HTML and CSS 	| Jasmine 	| [Demo video](https://vimeo.com/262748024) 	|
 | [Rock, Paper, Scissors game](https://github.com/serenahathi/rps-challenge)<br>(week 3)<br> | A web app that allows a user to play a game of Rock, Paper, Scissors 	| 2 days (solo project)	| Ruby, Sinatra, HTML and CSS 	| RSpec, Capybara, Selenium WebDriver 	| [Live link](https://rock-paper-scissors-makers.herokuapp.com) 	|
 | [Takeaway challenge](https://github.com/serenahathi/takeaway-challenge)<br>(week 2)<br> | A command-line app that allows users to place an order from a menu and receive a text message confirming the order 	| 2 days (solo project)	| Ruby, Twilio API 	| RSpec 	| [Demo video](https://vimeo.com/262639239) 	|
