@@ -7,7 +7,7 @@ I am a French-speaking Junior Full Stack Developer and a recent graduate of Make
 
 After graduating with a first class honours degree in French and History, I joined the Digital team of a multinational insurance company as a Digital Marketing Manager working in daily collaboration with front-end developers, testers, designers and project managers. Within the team, we adopted tools such as JIRA and agile practices such as daily stand-ups and the use of a Kanban workflow and this is where I developed an initial interest in programming. 
 
-My interest developed further when I was selected alongside four senior leaders to launch the company's first start-up venture where technology was used an enabler in rapidly bringing a proposition to market as we iterated and tested different hypotheses. 
+My interest developed further when I was selected alongside four senior leaders to launch the company's first start-up venture where technology was used as an enabler in rapidly bringing a proposition to market as we iterated and tested different hypotheses. 
 
 I have experience using:
 
